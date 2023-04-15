@@ -5,7 +5,7 @@ public class Main {
         int costOfBonus = 20; // стоимость бонуса
         if (ticketPrice > costOfBonus) ;
         int bonusmile = ticketPrice / costOfBonus;
-        System.out.println("Бонус за покупку равен:");
+        System.out.println("Бонусмили за покупку равны:");
         System.out.println(bonusmile);
     }
 
